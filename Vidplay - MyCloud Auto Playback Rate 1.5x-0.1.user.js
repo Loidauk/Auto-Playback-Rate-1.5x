@@ -6,7 +6,9 @@
 // @match        https://mcloud.bz/*
 // @match        https://vid142.site/*
 // @match        https://megacloud.tv/*
+//@icon          https://static.vecteezy.com/system/resources/previews/003/833/977/non_2x/fast-delivery-icon-with-timer-fast-stopwatch-line-icon-fast-delivery-shipping-service-sign-speed-clock-symbol-urgency-deadline-time-management-competition-sign-stock-vector.jpg
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
