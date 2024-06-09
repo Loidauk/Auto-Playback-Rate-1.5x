@@ -3,7 +3,7 @@ Automatically set playback rate to 1.5x
 
 ![image](https://github.com/Loidauk/Vidplay-MyCloud-Auto-Playback-Rate-1.5x/assets/76977614/a2921f38-3aa0-4808-9059-793cf8a4fb1a)
 
-Supported sites
+Supported sites / players
 -
 
 | Players       | URLs                   |
