@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Vidplay / MyCloud Auto Playback Rate 1.5x
+// @name         Auto Playback Rate 1.5x
 // @namespace    https://github.com
-// @version      0.1
-// @description  Automatically set playback rate to 1.5x on Vidplay and MyCloud videos
+// @version      0.3
+// @description  Automatically set playback rate to 1.5x
 // @author       TellerTellerMoose
 // @match        https://mcloud.bz/*
 // @match        https://vid142.site/*
