@@ -3,7 +3,7 @@
 // @namespace    https://github.com
 // @version      0.6
 // @description  Automatically set playback rate to 1.5x
-// @author       TellerTellerMoose
+// @author       Loidauk / TellerMoose
 // @match        https://mcloud.bz/*
 // @match        https://vid142.site/*
 // @match        https://megacloud.tv/*
