@@ -20,4 +20,4 @@ Sometimes there will come a new domain. You can add a user match. I will try and
 Altering
 -
 
-If another playback rate is wanted, then the script can just be altered. In line 30, set a new value for 'setPlaybackRate'
+If another playback rate is wanted, then the script can just be altered. Set a new value for `setPlaybackRate`
