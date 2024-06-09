@@ -11,6 +11,7 @@ Supported sites
 | Vidplay    | https://vid142.site/*  |
 | MyCloud    | https://mcloud.bz/*    |
 | MegaCloud  | https://megacloud.tv/* |
+| Filemoon   | https://1azayf9w.xyz/* |
 
 Sometimes there will come a new domain. You can add a user match. I will try and keep it updated.
 
