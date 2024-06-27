@@ -5,7 +5,7 @@
 // @description  Automatically set playback rate to 1.5x
 // @author       Loidauk / TellerMoose
 // @match        https://mcloud.bz/*
-// @match        https://vid142.site/*
+// @match        https://vid2a41.site/*
 // @match        https://megacloud.tv/*
 // @match        https://1azayf9w.xyz/*
 // @match        https://vidco.pro/*
