@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto Playback Rate 1.5x
 // @namespace    https://github.com
-// @version      0.6
+// @version      0.7
 // @description  Automatically set playback rate to 1.5x
 // @author       Loidauk / TellerMoose
 // @match        https://mcloud.bz/*
