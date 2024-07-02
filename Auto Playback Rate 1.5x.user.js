@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto Playback Rate 1.5x
 // @namespace    https://github.com
-// @version      0.7
+// @version      0.8
 // @description  Automatically set playback rate to 1.5x
 // @author       Loidauk / TellerMoose
 // @match        https://mcloud.bz/*
@@ -12,6 +12,7 @@
 // @match        https://embtaku.pro/*
 // @match        https://embtaku.com/*
 // @match        https://awish.pro/*
+// @match        https://megaf.cc/*
 // @icon         https://static.vecteezy.com/system/resources/previews/003/833/977/non_2x/fast-delivery-icon-with-timer-fast-stopwatch-line-icon-fast-delivery-shipping-service-sign-speed-clock-symbol-urgency-deadline-time-management-competition-sign-stock-vector.jpg
 // @license      MIT
 // ==/UserScript==
