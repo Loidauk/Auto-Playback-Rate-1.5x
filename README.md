@@ -11,7 +11,7 @@ Supported sites / players
 | Vidplay       | https://vid2a41.site/* |
 | MyCloud       | https://mcloud.bz/*    |
 | MegaCloud     | https://megacloud.tv/* |
-| Filemoon      | https://1azayf9w.xyz/* |
+| Filemoon      | https://81u6xl9d.xyz/* |
 | Vidstreaming  | https://vidco.pro/* <br /> https://embtaku.pro/* <br /> https://embtaku.com/*  |
 | Streamwish    | https://awish.pro/*    |
 | MegaF         | https://megaf.cc/*     |
