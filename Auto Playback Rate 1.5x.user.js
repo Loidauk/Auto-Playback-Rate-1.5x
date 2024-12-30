@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Auto Playback Rate 1.5x
 // @namespace    https://github.com
-// @version      0.9
+// @version      1.0
 // @description  Automatically set playback rate to 1.5x
-// @author       Loidauk / TellerMoose
+// @author       Loidauk
 // @match        https://mcloud.bz/*
 // @match        https://vid2a41.site/*
 // @match        https://megacloud.tv/*
@@ -13,8 +13,11 @@
 // @match        https://embtaku.com/*
 // @match        https://awish.pro/*
 // @match        https://megaf.cc/*
-// @icon         https://static.vecteezy.com/system/resources/previews/003/833/977/non_2x/fast-delivery-icon-with-timer-fast-stopwatch-line-icon-fast-delivery-shipping-service-sign-speed-clock-symbol-urgency-deadline-time-management-competition-sign-stock-vector.jpg
+// @match        https://*.bunniescdn.online/*
+// @icon         https://github.com/Loidauk/Auto-Playback-Rate-1.5x/blob/main/Images/speed-up.png?raw=true
 // @license      MIT
+// @downloadURL https://github.com/Loidauk/Auto-Playback-Rate-1.5x/raw/refs/heads/main/Auto%20Playback%20Rate%201.5x.user.js
+// @updateURL https://github.com/Loidauk/Auto-Playback-Rate-1.5x/raw/refs/heads/main/Auto%20Playback%20Rate%201.5x.user.js
 // ==/UserScript==
 
 (function() {
